@@ -1,0 +1,12 @@
+<script src="home-template/js/jquery-3.2.1.min.js"></script>
+<script src="home-template/js/popper.js"></script>
+<script src="home-template/js/bootstrap.min.js"></script>
+<script src="vendors/owl-carousel/owl.carousel.min.js"></script>
+<script src="home-template/js/jquery.ajaxchimp.min.js"></script>
+<script src="home-template/js/mail-script.js"></script>
+<script src="vendors/bootstrap-datepicker/bootstrap-datetimepicker.min.js"></script>
+<script src="vendors/nice-select/js/jquery.nice-select.js"></script>
+<script src="home-template/js/mail-script.js"></script>
+<script src="home-template/js/stellar.js"></script>
+<script src="vendors/lightbox/simpleLightbox.min.js"></script>
+<script src="home-template/js/custom.js"></script>
